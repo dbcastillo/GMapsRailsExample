@@ -1,24 +1,38 @@
-# README
+# Google Maps Rails Example
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Just a simple practice using Google Maps using Rails.
 
-Things you may want to cover:
 
-* Ruby version
+## Application Features
 
-* System dependencies
+* User can create, read, update, delete location
+* User can place a marker
+* User can update marker position
+* User can update input value by dragging marker
 
-* Configuration
+## Built With
 
-* Database creation
+* Rails
+* Javascript
+* Google Maps API
 
-* Database initialization
+## Install Instructions
 
-* How to run the test suite
+1. Run ```bundle install```
+2. Run ```rails s```
 
-* Services (job queues, cache servers, search engines, etc.)
+## Contributing
 
-* Deployment instructions
+[CONTRIBUTING](https://gist.github.com/dbcastillo/75308bee09c36e8e8aedd58a6de0e37f)
 
-* ...
+## Authors
+
+* **Derick Castillo**
+
+## License
+
+[LICENSE](LICENSE.md)
+
+## Acknowledgments
+
+* Special thanks to Paulo Belo for his helpful Medium article [Article](https://medium.com/@pjbelo/using-google-maps-api-v3-with-rails-5-2-b066a4b2cf14)
