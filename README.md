@@ -35,4 +35,4 @@ Just a simple practice using Google Maps using Rails.
 
 ## Acknowledgments
 
-* Special thanks to Paulo Belo for his helpful Medium article [Article](https://medium.com/@pjbelo/using-google-maps-api-v3-with-rails-5-2-b066a4b2cf14)
+* Special thanks to Paulo Belo for his helpful Medium [article](https://medium.com/@pjbelo/using-google-maps-api-v3-with-rails-5-2-b066a4b2cf14)
