@@ -7,7 +7,7 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 Place.create!([
-{ "name": "Brooklyn Bridge", "latitude": "40.7061","longitude": "73.9969"},
-{ "name": "UnionCity Reservoir", "latitude": "40.7649", "longitude": "74.0308"},
-{ "name": "Juniors Cheesecake", "latitude": "40.7583", "longitude": "-73.9863"}
+{ "name": "Toscana Cafe", "latitude": "40.760943","longitude": "-74.032617"},
+{ "name": "Flatiron School", "latitude": "40.700659", "longitude": "-73.987538"},
+{ "name": "Dominican Food", "latitude": "40.702263", "longitude": "-73.984485"}
 ])
